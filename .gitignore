@@ -89,7 +89,7 @@ _site
 # public
 
 # vuepress build output
-.vuepress/dist
+.vuepress/_site
 
 # Serverless directories
 .serverless/
