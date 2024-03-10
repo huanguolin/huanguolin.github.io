@@ -1,7 +1,7 @@
 ---
 title: 配置多个 git 账户
 description: "同一个电脑配置多个 github 账户、gitLab 账户，或者二者混合，备忘"
-date: 2024-03-03T12:15:00
+date: 2024-03-10T16:06:00
 thumb: "git-multiple-account.png"
 tags:
     - git
